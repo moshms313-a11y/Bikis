@@ -1,2 +1,1 @@
-# Biki
-its a magical powerful tool but stupid
+Master Core B
